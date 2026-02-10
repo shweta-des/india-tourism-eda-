@@ -56,3 +56,6 @@ This project analyzes **23 years** (2001-2023) of India's tourism data to unders
 4. **Top 10 Countries** - Interactive bar chart with color gradient
 5. **Regional GroupBy Analysis** - Aggregated insights by region
 
+**Source:** Tourism Statistics Report 2023, Ministry of Tourism, Government of India
+https://tourism.gov.in/download-data
+
