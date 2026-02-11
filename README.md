@@ -59,3 +59,14 @@ This project analyzes **23 years** (2001-2023) of India's tourism data to unders
 **Source:** Tourism Statistics Report 2023, Ministry of Tourism, Government of India
 https://tourism.gov.in/download-data
 
+## ⚠️ Data Quality Notes
+
+### Methodology Change (2013-2014)
+A significant jump appears between 2013 (7.0M) and 2014 (13.1M) 
+due to changes in data collection:
+→ Starting 2014, NRI (Non-Resident Indian) arrivals were included in 
+  total counts
+→ Previously, only FTAs (Foreign Tourist Arrivals) were tracked
+
+This is why comparative analysis focuses on consistent periods (2001-2013, 
+2014-2023) rather than treating the entire series as uniform.
